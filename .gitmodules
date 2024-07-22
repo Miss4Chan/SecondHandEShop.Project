@@ -1,0 +1,6 @@
+[submodule "API"]
+	path = API
+	url = https://github.com/Miss4Chan/SecondHandEShop.Api.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/Miss4Chan/SecondHandEShop.Frontend
